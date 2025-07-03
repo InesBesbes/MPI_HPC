@@ -1,0 +1,46 @@
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/privatization' to '1'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/np' to '4'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/hostfile' to 'hostfiles/cluster_hostfile.txt'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing' to 'yes'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing/filename' to 'smpi_simgrid.trace'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing/smpi' to 'yes'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'surf/precision' to '1e-9'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'network/model' to 'SMPI'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/tmpdir' to '/home/besbesines/tmp_simgrid'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/host-speed' to '6.691Gf'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/tmpdir' to '/tmp'
+je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
+je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
+je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 0.511626s (la=0) | 113.328990 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.449891s | 128.880236 Gflop/s
+GEMM is correct ( 0.00000e+00)
+je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
+je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
+je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 0.480239s (la=0) | 120.735838 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.455786s | 127.213341 Gflop/s
+GEMM is correct ( 0.00000e+00)
+je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
+je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
+je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 0.480746s (la=0) | 120.608509 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.445968s | 130.013943 Gflop/s
+GEMM is correct ( 0.00000e+00)
+je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
+je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
+je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 0.482629s (la=0) | 120.137949 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.445109s | 130.264850 Gflop/s
+GEMM is correct ( 0.00000e+00)
+je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
+je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
+je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 0.475435s (la=0) | 121.955809 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.449409s | 129.018461 Gflop/s
+GEMM is correct ( 0.00000e+00)

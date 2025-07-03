@@ -1,0 +1,26 @@
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/privatization' to '1'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/np' to '4'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/hostfile' to 'hostfiles/cluster_hostfile.txt'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing' to 'yes'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing/filename' to 'smpi_simgrid.trace'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing/smpi' to 'yes'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'surf/precision' to '1e-9'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'network/model' to 'SMPI'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/tmpdir' to '/home/besbesines/tmp_simgrid'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/host-speed' to '6.691Gf'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/tmpdir' to '/tmp'
+[besbesines-Precision-3581] (p2p-i-la) measured_wtime = 0.504401s (la=12) | 114.952300 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.439907s | 131.805260 Gflop/s
+GEMM is correct ( 0.00000e+00)
+[besbesines-Precision-3581] (p2p-i-la) measured_wtime = 0.473621s (la=12) | 122.422902 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.439420s | 131.951337 Gflop/s
+GEMM is correct ( 0.00000e+00)
+[besbesines-Precision-3581] (p2p-i-la) measured_wtime = 0.476310s (la=12) | 121.731764 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.439856s | 131.820549 Gflop/s
+GEMM is correct ( 0.00000e+00)
+[besbesines-Precision-3581] (p2p-i-la) measured_wtime = 0.483367s (la=12) | 119.954525 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.447252s | 129.640690 Gflop/s
+GEMM is correct ( 0.00000e+00)
+[besbesines-Precision-3581] (p2p-i-la) measured_wtime = 0.492875s (la=12) | 117.640492 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.442520s | 131.026981 Gflop/s
+GEMM is correct ( 0.00000e+00)
