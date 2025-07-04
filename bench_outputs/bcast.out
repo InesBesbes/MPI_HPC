@@ -1,5 +1,5 @@
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/privatization' to '1'
-[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/np' to '4'
+[0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/np' to '16'
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/hostfile' to 'hostfiles/cluster_hostfile.txt'
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing' to 'yes'
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'tracing/filename' to 'smpi_simgrid.trace'
@@ -9,38 +9,98 @@
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/tmpdir' to '/home/besbesines/tmp_simgrid'
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/host-speed' to '6.691Gf'
 [0.000000] [xbt_cfg/INFO] Configuration change: Set 'smpi/tmpdir' to '/tmp'
+je suis le processus 3 avec le rang 3 pour les lignes et 0 pour les colonnes 
+je suis le processus 2 avec le rang 2 pour les lignes et 0 pour les colonnes 
 je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
 je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
-je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
-je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
-[besbesines-Precision-3581] (bcast) measured_wtime = 0.511626s (la=0) | 113.328990 Gflop/s
-[besbesines-Precision-3581] (g) measured_wtime = 0.449891s | 128.880236 Gflop/s
+je suis le processus 15 avec le rang 3 pour les lignes et 3 pour les colonnes 
+je suis le processus 11 avec le rang 3 pour les lignes et 2 pour les colonnes 
+je suis le processus 7 avec le rang 3 pour les lignes et 1 pour les colonnes 
+je suis le processus 14 avec le rang 2 pour les lignes et 3 pour les colonnes 
+je suis le processus 10 avec le rang 2 pour les lignes et 2 pour les colonnes 
+je suis le processus 6 avec le rang 2 pour les lignes et 1 pour les colonnes 
+je suis le processus 13 avec le rang 1 pour les lignes et 3 pour les colonnes 
+je suis le processus 9 avec le rang 1 pour les lignes et 2 pour les colonnes 
+je suis le processus 5 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 12 avec le rang 0 pour les lignes et 3 pour les colonnes 
+je suis le processus 8 avec le rang 0 pour les lignes et 2 pour les colonnes 
+je suis le processus 4 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 3.807412s (la=0) | 15.228733 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.911033s | 63.644303 Gflop/s
 GEMM is correct ( 0.00000e+00)
+je suis le processus 3 avec le rang 3 pour les lignes et 0 pour les colonnes 
+je suis le processus 2 avec le rang 2 pour les lignes et 0 pour les colonnes 
 je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
 je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
-je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
-je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
-[besbesines-Precision-3581] (bcast) measured_wtime = 0.480239s (la=0) | 120.735838 Gflop/s
-[besbesines-Precision-3581] (g) measured_wtime = 0.455786s | 127.213341 Gflop/s
+je suis le processus 15 avec le rang 3 pour les lignes et 3 pour les colonnes 
+je suis le processus 11 avec le rang 3 pour les lignes et 2 pour les colonnes 
+je suis le processus 7 avec le rang 3 pour les lignes et 1 pour les colonnes 
+je suis le processus 14 avec le rang 2 pour les lignes et 3 pour les colonnes 
+je suis le processus 10 avec le rang 2 pour les lignes et 2 pour les colonnes 
+je suis le processus 6 avec le rang 2 pour les lignes et 1 pour les colonnes 
+je suis le processus 13 avec le rang 1 pour les lignes et 3 pour les colonnes 
+je suis le processus 9 avec le rang 1 pour les lignes et 2 pour les colonnes 
+je suis le processus 5 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 12 avec le rang 0 pour les lignes et 3 pour les colonnes 
+je suis le processus 8 avec le rang 0 pour les lignes et 2 pour les colonnes 
+je suis le processus 4 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 2.720554s (la=0) | 21.312592 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.933975s | 62.080955 Gflop/s
 GEMM is correct ( 0.00000e+00)
+je suis le processus 3 avec le rang 3 pour les lignes et 0 pour les colonnes 
+je suis le processus 2 avec le rang 2 pour les lignes et 0 pour les colonnes 
 je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
 je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
-je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
-je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
-[besbesines-Precision-3581] (bcast) measured_wtime = 0.480746s (la=0) | 120.608509 Gflop/s
-[besbesines-Precision-3581] (g) measured_wtime = 0.445968s | 130.013943 Gflop/s
+je suis le processus 15 avec le rang 3 pour les lignes et 3 pour les colonnes 
+je suis le processus 11 avec le rang 3 pour les lignes et 2 pour les colonnes 
+je suis le processus 7 avec le rang 3 pour les lignes et 1 pour les colonnes 
+je suis le processus 14 avec le rang 2 pour les lignes et 3 pour les colonnes 
+je suis le processus 10 avec le rang 2 pour les lignes et 2 pour les colonnes 
+je suis le processus 6 avec le rang 2 pour les lignes et 1 pour les colonnes 
+je suis le processus 13 avec le rang 1 pour les lignes et 3 pour les colonnes 
+je suis le processus 9 avec le rang 1 pour les lignes et 2 pour les colonnes 
+je suis le processus 5 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 12 avec le rang 0 pour les lignes et 3 pour les colonnes 
+je suis le processus 8 avec le rang 0 pour les lignes et 2 pour les colonnes 
+je suis le processus 4 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 2.875893s (la=0) | 20.161409 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.993024s | 58.389383 Gflop/s
 GEMM is correct ( 0.00000e+00)
+je suis le processus 3 avec le rang 3 pour les lignes et 0 pour les colonnes 
+je suis le processus 2 avec le rang 2 pour les lignes et 0 pour les colonnes 
 je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
 je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
-je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
-je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
-[besbesines-Precision-3581] (bcast) measured_wtime = 0.482629s (la=0) | 120.137949 Gflop/s
-[besbesines-Precision-3581] (g) measured_wtime = 0.445109s | 130.264850 Gflop/s
+je suis le processus 15 avec le rang 3 pour les lignes et 3 pour les colonnes 
+je suis le processus 11 avec le rang 3 pour les lignes et 2 pour les colonnes 
+je suis le processus 7 avec le rang 3 pour les lignes et 1 pour les colonnes 
+je suis le processus 14 avec le rang 2 pour les lignes et 3 pour les colonnes 
+je suis le processus 10 avec le rang 2 pour les lignes et 2 pour les colonnes 
+je suis le processus 6 avec le rang 2 pour les lignes et 1 pour les colonnes 
+je suis le processus 13 avec le rang 1 pour les lignes et 3 pour les colonnes 
+je suis le processus 9 avec le rang 1 pour les lignes et 2 pour les colonnes 
+je suis le processus 5 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 12 avec le rang 0 pour les lignes et 3 pour les colonnes 
+je suis le processus 8 avec le rang 0 pour les lignes et 2 pour les colonnes 
+je suis le processus 4 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 2.376489s (la=0) | 24.398203 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.878741s | 65.983102 Gflop/s
 GEMM is correct ( 0.00000e+00)
+je suis le processus 3 avec le rang 3 pour les lignes et 0 pour les colonnes 
+je suis le processus 2 avec le rang 2 pour les lignes et 0 pour les colonnes 
 je suis le processus 1 avec le rang 1 pour les lignes et 0 pour les colonnes 
 je suis le processus 0 avec le rang 0 pour les lignes et 0 pour les colonnes 
-je suis le processus 3 avec le rang 1 pour les lignes et 1 pour les colonnes 
-je suis le processus 2 avec le rang 0 pour les lignes et 1 pour les colonnes 
-[besbesines-Precision-3581] (bcast) measured_wtime = 0.475435s (la=0) | 121.955809 Gflop/s
-[besbesines-Precision-3581] (g) measured_wtime = 0.449409s | 129.018461 Gflop/s
+je suis le processus 15 avec le rang 3 pour les lignes et 3 pour les colonnes 
+je suis le processus 11 avec le rang 3 pour les lignes et 2 pour les colonnes 
+je suis le processus 7 avec le rang 3 pour les lignes et 1 pour les colonnes 
+je suis le processus 14 avec le rang 2 pour les lignes et 3 pour les colonnes 
+je suis le processus 10 avec le rang 2 pour les lignes et 2 pour les colonnes 
+je suis le processus 6 avec le rang 2 pour les lignes et 1 pour les colonnes 
+je suis le processus 13 avec le rang 1 pour les lignes et 3 pour les colonnes 
+je suis le processus 9 avec le rang 1 pour les lignes et 2 pour les colonnes 
+je suis le processus 5 avec le rang 1 pour les lignes et 1 pour les colonnes 
+je suis le processus 12 avec le rang 0 pour les lignes et 3 pour les colonnes 
+je suis le processus 8 avec le rang 0 pour les lignes et 2 pour les colonnes 
+je suis le processus 4 avec le rang 0 pour les lignes et 1 pour les colonnes 
+[besbesines-Precision-3581] (bcast) measured_wtime = 2.797863s (la=0) | 20.723695 Gflop/s
+[besbesines-Precision-3581] (g) measured_wtime = 0.915858s | 63.309007 Gflop/s
 GEMM is correct ( 0.00000e+00)
