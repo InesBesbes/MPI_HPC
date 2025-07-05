@@ -3,9 +3,9 @@ source utils.sh
 echo BENCHMARKING THE METHODS
 
 # Define ranges for parameters
-p_values=(2 4)
-q_values=(2 4)
-b_values=(128 256)
+p_values=(1 2 4)
+q_values=(1 2 4)
+b_values=(128 256 512)
 iter=5
 traces="bench_traces"
 out="bench_outputs"

@@ -5,7 +5,7 @@
 export PATH=/usr/bin:${PATH}
 
 # to modify according to the value given by --cfg=smpi/host-speed:auto
-COMPUTER=6.691Gf
+COMPUTER=6Gf
 
 # for check and bench
 
